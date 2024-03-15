@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "ZenTube",
+    "version": "1.0",
+    "description": "Hide recommended videos, comments, and other distracting elements on YouTube.",
+    "permissions": [
+       "activeTab",
+       "scripting"
+    ],
+    "host_permissions": [
+       "https://www.youtube.com/*"
+    ],
+    "background": {
+       "service_worker": "background.js"
+    },
+    "content_scripts": [
+       {
+         "matches": ["https://www.youtube.com/*"],
+         "js": ["content.js"]
+       }
+    ],
+    "action": {
+  
+       "default_popup": "popup.html"
+    }
+   }
+   
