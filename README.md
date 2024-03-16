@@ -6,7 +6,7 @@ An extension designed to enhance your YouTube viewing experience by hiding recom
 
 - Hides recommended videos, comments, and related videos at the end of the video.
 - Hides the grid of recommended videos on the YouTube homepage.
-- Toggle functionality to enable or disable the distraction-free mode.
+- Just refresh your page to disable the distraction-free mode.
 
 ## Installation
 
