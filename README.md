@@ -1,4 +1,4 @@
-# YouTube Distraction-Free Mode
+# ZenTube
 
 An extension designed to enhance your YouTube viewing experience by hiding recommended videos, comments, and other distracting elements, allowing you to focus solely on the video you're watching.
 
